@@ -17,4 +17,4 @@ Este repositório foi criado como parte das aulas do **Curso de Git e GitHub**, 
 
 > Este repositório serve como registro das atividades realizadas durante o curso, com o propósito de reforçar o aprendizado e documentar a evolução dos estudos.
 
-Esta linha eu adicionei direto pelo site
+Esta linha eu adicionei diretamente pelo site QUE IMPRECIONANTE.
